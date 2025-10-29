@@ -102,9 +102,4 @@ p {
     text-align: center;
     margin: 0 20px;
   }
-
-  .col-sm-6 {
-    flex: 0 auto;
-    width: 50%;
-  }
 }
